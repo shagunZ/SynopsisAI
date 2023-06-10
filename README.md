@@ -8,6 +8,10 @@
 
 
 # Deployment
-
+https://synopsisai.netlify.app/
 
 # Preview
+
+
+https://github.com/shagunZ/SynopsisAI/assets/100477248/47f25889-f28d-4f7b-ba40-8bac95f13bb1
+
